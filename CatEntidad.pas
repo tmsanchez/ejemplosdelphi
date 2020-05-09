@@ -43,7 +43,7 @@ implementation
 
 constructor TEntidad.Create;
 begin
-
+    // constructor por default
 end;
 
 constructor TEntidad.Create(codigo, nombreEntidad, nombreCorto: String);
