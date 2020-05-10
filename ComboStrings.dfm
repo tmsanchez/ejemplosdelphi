@@ -28,9 +28,8 @@ object frmComboStrings: TfrmComboStrings
     Width = 273
     Height = 21
     Style = csDropDownList
-    ItemIndex = 0
+    DropDownCount = 30
     TabOrder = 0
-    Text = 'SELECCIONE UNA ENTIDAD'
     OnChange = cboEntidadesChange
     Items.Strings = (
       'SELECCIONE UNA ENTIDAD'

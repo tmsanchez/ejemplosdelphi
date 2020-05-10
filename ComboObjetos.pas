@@ -68,6 +68,8 @@ begin
 
   muestraEntidad(entidadSeleccionada.codigo, entidadSeleccionada.nombreEntidad,
     entidadSeleccionada.nombreCorto);
+
+
 end;
 
 procedure TfrmComboObjetos.muestraEntidad(clave, nombreLargo,
