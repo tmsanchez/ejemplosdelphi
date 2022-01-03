@@ -11,6 +11,16 @@ Pantalla principal
 ![Principal](https://github.com/tmsanchez/ejemplosdelphi/blob/master/tracking/principal.jpg "Principal")
 
 
+Editando el detalle del registro
+
+![Detalle](https://github.com/tmsanchez/ejemplosdelphi/blob/master/tracking/detalle.jpg "Detalle")
+
+
+La gráfica
+
+![Resumen](https://github.com/tmsanchez/ejemplosdelphi/blob/master/tracking/resumen.jpg "Resumen")
+
+
 ## Nota:
 
 Originalmente publicado en https://tmsanchezdev.blogspot.com/2009/08/tmsgtracking-miniherramienta-para.html
