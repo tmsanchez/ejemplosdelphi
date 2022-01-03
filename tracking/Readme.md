@@ -6,6 +6,11 @@ Si lo hacemos en la hoja de cálculo luego nos da por ponerle colores, auto filt
 
 Este programa (con código fuente incluido) nos sirve para llevar el ese control del que hablamos de una forma muy sencilla, sin depender de que tengamos instalado el software de oficina completo. Esta totalmente desarrollado (obvio :D ) en delphi, utiliza clientDataSets, graficos y en el grid se dibujan algunos elementos. Por su tamaño ligero es ideal para guardado en la memoria USB. Espero que sea de utilidad.
 
+Pantalla principal
+
+![Principal](https://github.com/tmsanchez/ejemplosdelphi/blob/master/tracking/principal.jpg "Principal")
+
+
 ## Nota:
 
 Originalmente publicado en https://tmsanchezdev.blogspot.com/2009/08/tmsgtracking-miniherramienta-para.html
